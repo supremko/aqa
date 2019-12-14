@@ -1,0 +1,5 @@
+amount,expected,message
+1000,0,Should return 0
+200,800,Should return 800
+900,100,Should return 100
+1300,700,Should return 700
